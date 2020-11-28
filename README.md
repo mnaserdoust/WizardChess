@@ -1,2 +1,2 @@
 # WizardChess
- A chess game with animated 
+ A chess game with animated players and moves
